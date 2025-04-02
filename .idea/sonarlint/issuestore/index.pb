@@ -7,3 +7,5 @@ P
  contracts/tenant-management.clar,e/c/ec3390cdfb3938eaebbf2a2386e680bdc1069454
 O
 tests/tenant-management.test.ts,c/2/c22709a257af0c6056ac0adfbbf9cce3a0be7ae1
+P
+ tests/expense-allocation.test.ts,b/0/b055065dfe0cc32f3fe9fd06b0cc668cb5d63a2d
